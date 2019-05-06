@@ -1,2 +1,2 @@
 # DataStructures
-Implementation of Data Structure Algorithm  in Java
+Implementation of Data Structure Algorithms  in Java
